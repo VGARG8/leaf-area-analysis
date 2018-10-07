@@ -10,3 +10,5 @@ PACKAGE REQUIREMENTS
   TensorFlow
   openCv
   matplotlib
+  tfleran
+  
