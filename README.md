@@ -1,2 +1,12 @@
-# leaf-area-analysis
-In this, we will find out the percentage of leaf area got destroyed.
+# PlantDiseaseDetection
+
+It is a plant disease detection project...
+cnn.py is used to train and test the model
+ui.py is used for finding the disease in the given leaf by the user
+
+PACKAGE REQUIREMENTS
+  numpy (pip install numpy)
+  tqdm (pip install tqdm)
+  TensorFlow
+  openCv
+  matplotlib
